@@ -4,10 +4,11 @@ Developed an interactive Power BI dashboard to analyze telecom network performan
 ## Dashboard Preview
 
 ### Overview
-![Overview](overview.png)
+![Overview](screenshots/overview.png)
 
 ### Network Performance
-![Network Performance](network_performance.png)
+![Network Performance](screenshots/network_performance.png)
 
 ### Customer Experience
-![Customer Experience](customer_experience.png)
+![Customer Experience](screenshots/customer_experience.png)
+
